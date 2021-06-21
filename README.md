@@ -50,12 +50,9 @@ The following points were the objective of the project .
   
 
 
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
-<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
 
+<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
+![numpy](https://user-images.githubusercontent.com/71751175/122774216-a0ea4f80-d2c6-11eb-92e6-0c2527638677.png)
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues) by including your search query and the expected result.
 
@@ -70,7 +67,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 
-![ui](https://user-images.githubusercontent.com/71751175/122767467-54037a80-d2c0-11eb-9f72-aa903cae1e87.png)
+![interface](https://user-images.githubusercontent.com/71751175/122774175-9a5bd800-d2c6-11eb-83ff-db279a50cdf3.jpg)
+
+
 
 
 
