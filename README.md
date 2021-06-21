@@ -52,7 +52,7 @@ The following points were the objective of the project .
 
 
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-![numpy](https://user-images.githubusercontent.com/71751175/122774216-a0ea4f80-d2c6-11eb-92e6-0c2527638677.png)
+
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/issues) by including your search query and the expected result.
 
