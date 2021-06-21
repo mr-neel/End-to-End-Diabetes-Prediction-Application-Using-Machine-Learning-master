@@ -70,8 +70,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 
-<img target="_blank" src="https://github.com/mr-neel/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/interface.jpg" width=170>
-
+![ui](https://user-images.githubusercontent.com/71751175/122767467-54037a80-d2c0-11eb-9f72-aa903cae1e87.png)
 
 
 
